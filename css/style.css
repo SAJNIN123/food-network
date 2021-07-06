@@ -12,6 +12,11 @@ h2{
     color: rgb(112,112,112);
 }
 
+h3{
+    font-size: 30px;
+    font-weight: 800;
+}
+
 body{
     font-family: 'Open Sans', sans-serif;
    margin: 0;
@@ -24,12 +29,12 @@ body{
 h4{
     color: rgb(194,194,194);
     font-size: 20px;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
 }
 
 .half_part{
     width: 50%;
-    padding-left: 30px;
+    padding-left: 40px;
    
 }
 
@@ -130,6 +135,39 @@ h4{
 }
 
 /* Recipie Part Css End */
+
+
+.recipie_part_1{
+    background-image: url(../images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.recipie_img_1{
+    width: 40%;
+    padding-left: 100px;
+    padding-top: 75px;
+   
+}
+
+.recipie_middle_1{
+   width: 10%;
+}
+
+.recipie_img_1 img{
+    width: 80%;
+
+}
+
+.recipie_item_1{
+    width: 50%;
+    padding: 70px;
+    
+}
+
+.recipie_item_1 p{
+    font-size: 20px;
+    padding:20px 0 50px 0;
+}
 
 /* Counter Part Start */
 
