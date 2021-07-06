@@ -60,8 +60,7 @@ h4{
 /* Common Css End */
 
 .about_part{
-    background-image: url(images/shapes/7.png);
-    background-size: cover !important;
+    background-image: url(../images/shapes/7.png);
     background-repeat: no-repeat;
 }
 
@@ -90,3 +89,35 @@ h4{
     padding:20px 0 50px 0;
 }
 
+.recipie_item{
+    text-align: center;
+    margin: auto;
+    padding:0 28%;
+}
+ .recipie_img{
+   width: 25%;
+   display: inline-block;
+   border: 2px solid #fff;
+   margin: 0 30px;
+   border-radius: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
+   box-shadow: 10px 15px 40px gray;
+  
+}
+
+.recipie_img p,h3,img{
+    padding:10px 10%;
+}
+
+.recipie_img img{
+    width: 80%;
+    margin: auto;
+} 
+
+.recipie_content{
+    padding-left: 9%;
+    padding-bottom: 50px;
+}
